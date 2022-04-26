@@ -2,16 +2,16 @@
 New repo with same project as bootcampCaseStudy, except this project has been initialized as a spring boot project instead of using spring data jpa
 ## User Stories
 #### Login/Registration page
-- As a user, I want to be able to register a new account if I don't have one, so that I can gain access to the application
+- As a user, I want to be able to register a new account in order to access the application
 - As a user, I want to be able to login to my account, so that I can use the application
 
 #### Profile Page
-- As a user I want to be able to see all the games in my profile, so that I can have an overview of my gaming history
-- As a user I want to be able to see all hours played, times completed, and current list all in one area, so I can make quick comparisons for myself
+- As a user I want to be able to see all the games I have added to my profile to keep track of my history
+- As a user I want to be able to see total hours played, times completed, and an up to date list all in one area so I can compare them easily
 
 #### Add Game Page
-- As a user I want to be able to add a new game to my profile, so I can keep track of progress on the new game
-- As a user I want to be able to add hours played when adding a game, so I can add games I have played in the past
+- As a user I want to be able to add a new game to my profile, so I can track progress on the new game
+- As a user I want to be able to add hours played when adding a game, so I am able to include games played in the past
 - As a user I want to be able to add times completed when adding a game, so I can add games I have played in the past
 - As a user I want to be able to add a game to either my backlog, currently playing, or completed games lists when adding a game, so that I can add my entire gaming history and planned future to my profile
 - As a user I want to be able to see the games that are already in the database of games, so I can avoid spelling mistakes and get full functionality out of the rest of the application
